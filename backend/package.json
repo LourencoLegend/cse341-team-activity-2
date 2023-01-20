@@ -15,9 +15,9 @@
     "author": "Lourenco Da Silva",
     "license": "ISC",
     "bugs": {
-      "url": "https://github.com/LourencoLegend/cse341-team-activity-2/issues"
+      "url": "https://github.com/LourencoLegend/cse341-team-activity-2.git"
     },
-    "homepage": "https://github.com/LourencoLegend/cse341-team-activity-2#readme",
+    "homepage": "https://github.com/LourencoLegend/cse341-team-activity-2.git#readme",
     "dependencies": {
       "cors": "^2.8.5",
       "dotenv": "^16.0.3",
