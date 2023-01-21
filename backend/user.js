@@ -1,7 +1,4 @@
 const data = {
-    "_id": {
-      "$oid": "621fe1f527d68ebb24438395"
-    },
     "professionalName": "Lourenco Da Silva",
     "nameLink": {
       "firstName": "Lourenco",
