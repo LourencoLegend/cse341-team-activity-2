@@ -1,30 +1,24 @@
-{
-    "name": "cse341-team-activity-2",
-    "version": "1.0.0",
-    "description": "REST Clients, GET Requests, Node Architecture",
-    "main": "server.js",
-    "scripts": {
-      "dev": "nodemon server.js",
-      "start": "node server.js",
-      "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/LourencoLegend/cse341-team-activity-2.git"
-    },
-    "author": "Lourenco Da Silva",
-    "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/LourencoLegend/cse341-team-activity-2.git"
-    },
-    "homepage": "https://github.com/LourencoLegend/cse341-team-activity-2.git#readme",
-    "dependencies": {
-      "cors": "^2.8.5",
-      "dotenv": "^16.0.3",
-      "express": "^4.18.2",
-      "mongodb": "^4.13.0"
-    },
-    "devDependencies": {
-      "nodemon": "^2.0.20"
-    }
-  }
+[{
+  "_id": {
+    "$oid": "621fe1f527d68ebb24436482"
+  },
+  "professionalName": "cse341-team-activity-2",
+  "nameLink": {
+    "firstName": "Lourenco",
+    "url": ""
+  },
+  "firstName": "Lourenco",
+  "primaryDescription": " is a student at BYU-Idaho",
+  "workDescription1": "Learning one day and one programing language at the time.",
+  "workDescription2": "Improving day by day.",
+  "linkTitleText": "Check out his work below",
+  "linkedInLink": {
+    "link": "",
+    "text": ""
+  },
+  "githubLink": {
+    "link": "https://github.com/LourencoLegend/cse341-team-activity-2.git",
+    "text": "GitHub"
+  },
+  "contactText": "Feel free to contact him at LourencoLegend if you'd like for him to work for you!"
+}]
