@@ -1,5 +1,5 @@
 {
-    "name": "lesson-02",
+    "name": "cse341-team-activity-2",
     "version": "1.0.0",
     "description": "REST Clients, GET Requests, Node Architecture",
     "main": "server.js",
